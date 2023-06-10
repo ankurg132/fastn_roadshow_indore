@@ -6,6 +6,7 @@ favicon: /-/ankurg132.github.io/fastn_roadshow_indore/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as ds
 -- fastn.dependency: fastn-community.github.io/footer
+-- fastn.dependency: ayushsoni1010.github.io/ui-packages
 
 -- fastn.auto-import: ds
 -- fastn.auto-import: ankurg132.github.io/fastn_roadshow_indore/FASTN/my-ds
