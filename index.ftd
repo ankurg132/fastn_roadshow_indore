@@ -7,10 +7,11 @@
 -- import: ayushsoni1010.github.io/ui-packages/hero-toast as github-toast
 -- import: ayushsoni1010.github.io/ui-packages/button as button
 
--- layout.base-layout :
+-- layout.base-layout:
 
 -- navbar.header:
-
+logo: $assets.files.images.logo.svg
+logoURL: /
 header-item1: Home
 header-item2: About
 header-item3: Blogs
@@ -26,4 +27,4 @@ header-item6-link: /contact
 cta-item1: Resume
 cta-item1-link: https://docs.google.com
 cta-item2: Schedule a Meeting
-cta-item2-link: https://calendly.com/ayushsoni1010
+cta-item2-link: https://calendly.com/ankurg132
