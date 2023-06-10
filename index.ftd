@@ -10,7 +10,7 @@
 -- layout.base-layout:
 
 -- navbar.header:
-logo: $assets.files.images.logo.svg
+logo: https://avatars.githubusercontent.com/u/31045221?v=4
 logoURL: /
 header-item1: Home
 header-item2: About
